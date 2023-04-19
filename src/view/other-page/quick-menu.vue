@@ -45,7 +45,7 @@ export default {
   methods: {
     print (key) {
       if (key === 1) {
-        window.open('https://github.com/open-kingfisher/king-frontend/issues')
+        window.open('https://github.com/duiniwukenaihe/king-frontend/issues')
       }
     },
     plugin () {

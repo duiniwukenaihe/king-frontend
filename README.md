@@ -17,5 +17,5 @@ Kingfisher 前端项目，采用Vue.js开发
 - 生成镜像推送到镜像仓库： make push
 
 ## 联系我们
-- [交流群](https://github.com/open-kingfisher/community/blob/master/contact_us/README.md)
+- [交流群](https://github.com/duiniwukenaihe/community/blob/master/contact_us/README.md)
 
